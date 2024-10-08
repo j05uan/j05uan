@@ -1,5 +1,6 @@
 # 💫 About Me:
-<br>- 📫 I’m studing in Campuslands.
+<br>- 📫 I am a Campuslands graduate.
+<br>- 💻 I am getting certified as a full stack programmer.
 
 
 ## 🌐 Socials:
